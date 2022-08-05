@@ -3,10 +3,10 @@
 a = input ('Give me number a:  ')
 b = input ('Give me number b: ')
 
-a = #convert to int
-b = #input converted to int
+#a = #convert to int
+##b = #input converted to int
 
-c = #operation type
+#c = #operation type
 
 #make UI with nice UX
 

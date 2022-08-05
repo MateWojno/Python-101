@@ -1,0 +1,5 @@
+https://docs.python.org/3.10/tutorial/
+
+https://docs.python-guide.org/writing/style/
+
+https://www.w3schools.com/python/python_syntax.asp
